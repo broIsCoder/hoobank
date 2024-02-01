@@ -1,5 +1,5 @@
 # How to host this website locally
-
+After getting the repo\
 Step 1: run `npm run build`\
 Step 2: go inside of `dist` folder\
 Step 3: go live with index.html inside of `dist` folder
